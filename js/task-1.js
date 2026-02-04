@@ -15,7 +15,7 @@ console.log(
     balance: 3821
   },
   {
-    name: "Ross Vazquez",
+    name: "Ross Vazquez", 
     email: "rossvazquez@xinware.com",
     balance: 3793
   },
